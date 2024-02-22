@@ -23,5 +23,5 @@ public class Address {
     @OneToMany(mappedBy = "address")
     private List<PetStore> petStores;
 
-    // Getters and setters
+    // Getter and setters
 }

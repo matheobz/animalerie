@@ -17,5 +17,5 @@ public class PetStore {
     @OneToMany(mappedBy = "petStore")
     private List<Animal> animals;
 
-    // Getters and setters
+    // Getter and setters
 }

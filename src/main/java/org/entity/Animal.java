@@ -15,5 +15,5 @@ public abstract class Animal {
     @Column(name = "couleur")
     private String couleur;
 
-    // Getters and setters
+    // Getter and setters
 }

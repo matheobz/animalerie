@@ -10,5 +10,5 @@ public class Cat extends Animal {
     @JoinColumn(name = "petStore_id")
     private PetStore petStore;
 
-    // Getters and setters
+    // Getter and setters
 }
